@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumLeap", "QuantumLeap\QuantumLeap.csproj", "{F56B82F9-C16F-4CAF-8E77-28C6190C418D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56B82F9-C16F-4CAF-8E77-28C6190C418D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56B82F9-C16F-4CAF-8E77-28C6190C418D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56B82F9-C16F-4CAF-8E77-28C6190C418D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56B82F9-C16F-4CAF-8E77-28C6190C418D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270C51DA-F479-400B-A209-6D73EB3C50DF}
+	EndGlobalSection
+EndGlobal
