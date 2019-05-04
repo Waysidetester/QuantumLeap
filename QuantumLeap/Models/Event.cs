@@ -8,5 +8,6 @@ namespace QuantumLeap.Models
         public string Name { get; set; }
         public DateTime DateOfEvent { get; set; }
         public string TimePeriod { get; set; }
+        public bool IsCorrected { get; set; }
     }
 }
