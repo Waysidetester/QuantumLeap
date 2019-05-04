@@ -10,6 +10,6 @@ namespace QuantumLeap.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public int CurrentLeaper { get; set; }
-        public string TimePeriod { get; set; }
+        public int EventId { get; set; }
     }
 }

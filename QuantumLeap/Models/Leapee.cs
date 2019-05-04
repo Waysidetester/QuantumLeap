@@ -7,6 +7,6 @@
         public bool IsLeapedTo { get; set; }
         public bool HasBeenLeapedTo { get; set; }
         public Leaper CurrentLeaper { get; set; }
-        public string TimePeriod { get; set; }
+        public int EventId { get; set; }
     }
 }

@@ -26,5 +26,11 @@ namespace QuantumLeap.Controllers
 
             return Accepted($"api/Leap/{id}", selectedLeaper);
         }
+
+        [HttpGet("{id}/jump")]
+        public ActionResult QuantumJump(int id)
+        {
+
+        }
     }
 }
