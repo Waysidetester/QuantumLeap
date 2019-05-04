@@ -10,8 +10,9 @@ namespace QuantumLeap.Models
         public int Id { get; set; }
         public string Name { get; set; }
         public string CurrentLeap { get; set; }
-        public List<Leapee> PastLeapees { get; set; }
+        public List<LeapeeBasic> PastLeapees { get; set; }
         public List<Event> PastEvents { get; set; }
         public Leapee CurrentLeapee { get; set; }
+        public Event CurrentEvent { get; set; }
     }
 }
